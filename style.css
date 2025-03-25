@@ -1,0 +1,18 @@
+body {
+  background-color: #ffcccb;
+  font-family: Arial, sans-serif;
+}
+
+.message {
+  text-align: center;
+  padding: 20px;
+}
+
+h1 {
+  color: #ff66b2;
+}
+
+p {
+  color: #333;
+  font-size: 1.2em;
+}
